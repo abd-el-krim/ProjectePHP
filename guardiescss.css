@@ -1,0 +1,44 @@
+h1{
+	font-size: 50px;
+	color:red;
+	font-family: MV Boli;
+
+
+
+}
+
+
+table{
+	color:white;
+	font-size: 30px;
+	font-family: Segoe Print;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+}
+
+
+table tr:nth-child(even) {
+  background-color: red;
+}
+table tr:nth-child(odd) {
+  background-color: red;
+}
+table th {
+  color: white;
+  background-color: black;
+}
+
+body{
+	
+	background-image: url("http://www.iessineu.net/images/logos-header/logoiessineu-pobles.png"); 
+	      background-color: darkgrey;
+	      background-repeat: repeat-x;
+	      background-position: -90px 570px;
+	      background-size:700px;
+
+}
